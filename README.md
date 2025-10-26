@@ -3,7 +3,7 @@
 VulnsBot es un bot de Discord que monitorea vulnerabilidades (CVEs) en tiempo real utilizando la base de datos oficial del **NVD (National Vulnerability Database)**.
 Publica las vulnerabilidades nuevas en un canal de Discord con información detallada, incluyendo su severidad (CVSS), vector de ataque y enlaces de referencia.
 
-![Ejemplo_del_bot(/Ejemplo.png)]
+![Ejemplo del bot](Ejemplo.png)
 
 ---
 
@@ -115,5 +115,6 @@ vulnsbot/
 
 Este proyecto está disponible bajo la licencia **MIT**.
 Puedes usarlo, modificarlo o distribuirlo libremente, siempre que se mantenga la atribución al autor original.
+
 
 
