@@ -1,0 +1,5 @@
+# Evita subir claves o archivos sensibles
+.env
+seen_cves.json
+__pycache__/
+*.pyc
